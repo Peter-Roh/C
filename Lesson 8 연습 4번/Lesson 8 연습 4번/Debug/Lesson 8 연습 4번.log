@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\rmc2\desktop\내 폴더\컴퓨터\프로그래밍\solution\lesson 8 연습 4번\lesson 8 연습 4번\소스.cpp(11): warning C4003: 'SQUARE' 매크로의 실제 매개 변수가 부족합니다.
+c:\users\rmc2\desktop\내 폴더\컴퓨터\프로그래밍\solution\lesson 8 연습 4번\lesson 8 연습 4번\소스.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Lesson 8 연습 4번.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\컴퓨터\프로그래밍\Solution\Lesson 8 연습 4번\Debug\Lesson 8 연습 4번.exe
+  Lesson 8 연습 4번.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\컴퓨터\프로그래밍\Solution\Lesson 8 연습 4번\Debug\Lesson 8 연습 4번.pdb (Partial PDB)

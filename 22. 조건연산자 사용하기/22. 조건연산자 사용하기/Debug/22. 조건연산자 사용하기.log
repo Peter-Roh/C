@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\rmc2\desktop\내 폴더\프로그래밍\solution\22. 조건연산자 사용하기\22. 조건연산자 사용하기\소스.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  22. 조건연산자 사용하기.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\프로그래밍\Solution\22. 조건연산자 사용하기\Debug\22. 조건연산자 사용하기.exe
+  22. 조건연산자 사용하기.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\프로그래밍\Solution\22. 조건연산자 사용하기\Debug\22. 조건연산자 사용하기.pdb (Partial PDB)

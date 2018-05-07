@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\rmc2\desktop\내 폴더\프로그래밍\solution\33. break 문과 switch문\33. break 문과 switch문\소스.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\rmc2\desktop\내 폴더\프로그래밍\solution\33. break 문과 switch문\33. break 문과 switch문\소스.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  33. break 문과 switch문.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\프로그래밍\Solution\33. break 문과 switch문\Debug\33. break 문과 switch문.exe
+  33. break 문과 switch문.vcxproj -> C:\Users\rmc2\Desktop\내 폴더\프로그래밍\Solution\33. break 문과 switch문\Debug\33. break 문과 switch문.pdb (Partial PDB)

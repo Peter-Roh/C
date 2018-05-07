@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92. 정밀도 지정", "92. 정밀도 지정\92. 정밀도 지정.vcxproj", "{04FAACE2-DF4A-42C4-B920-59FB2D37768E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Debug|x64.ActiveCfg = Debug|x64
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Debug|x64.Build.0 = Debug|x64
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Debug|x86.ActiveCfg = Debug|Win32
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Debug|x86.Build.0 = Debug|Win32
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Release|x64.ActiveCfg = Release|x64
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Release|x64.Build.0 = Release|x64
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Release|x86.ActiveCfg = Release|Win32
+		{04FAACE2-DF4A-42C4-B920-59FB2D37768E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F76D198D-635F-4A1C-8E77-64FBD06B1A54}
+	EndGlobalSection
+EndGlobal

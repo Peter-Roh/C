@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<string.h>
+#pragma warning(disable: 4996)
+
+int main(void)
+{
+	char str[100];
+
+	printf("문자열(영문숫자)을 입력하세요.\n");
+
+	scanf("%s", str);
+
+	printf("문자열 길이는 %d입니다.\n", strlen(str));
+
+	return 0;
+
+}
