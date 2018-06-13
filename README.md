@@ -76,4 +76,4 @@ These files were created when I stdied C for the first time.
   * 함수 선언
     * 함수 프로토타입 선언의 이용
     * 파일의 분할
-* 
+* 포인터
