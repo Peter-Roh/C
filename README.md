@@ -1,5 +1,8 @@
 # C
 
+These files were created while I was studying C for the first time (in 2017). 
+
+# Table of Contents
 
 * C언어의 기본
   * 화면 출력
@@ -131,5 +134,3 @@
     * 파일 조작의 기본
     * 파일 출력 - fputs( ) 함수
 * 문제 풀이
-
-
