@@ -1,7 +1,3 @@
-# C
-
-These files were created while I was studying C for the first time (in 2017). 
-
 # Table of Contents
 
 * C언어의 기본
